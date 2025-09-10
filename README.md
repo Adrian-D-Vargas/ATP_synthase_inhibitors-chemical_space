@@ -38,7 +38,7 @@ For full reproducibility, please use the provided `requirements.txt` to create y
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Adrian-D-Vargas/ATP_synthase_inhibitors-chemical_space.git
    ```
 2. Create the environment using conda and the provided requirements file:
    ```bash
